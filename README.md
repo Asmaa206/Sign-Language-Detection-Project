@@ -9,7 +9,8 @@ The aim is to empower humanoid robots to assist individuals who are DHH in compr
 - Office environments  
 - Hospitals  
 
-This project was completed as part of a university assignment, in collaboration with two of my colleagues. 
+This project was completed as part of a university assignment, in collaboration with two of my colleagues.
+ 
 ---
 
 ## ⚙️ Steps
